@@ -67,4 +67,4 @@ entries:
     type: application
     urls:
     - https://github.com/AhmedErrahmani/onyxia-services-helm-charts/releases/download/jupyter-pysyft0.9.6beta-6/jupyter-pysyft0.9.6beta-6.tgz
-    version: 2.3.24
+    version: 2.3.25
