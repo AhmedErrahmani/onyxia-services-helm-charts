@@ -50,7 +50,7 @@ entries:
     created: "2025-11-19T13:00:41.917689532Z"
     dependencies:
     - name: library-chart
-      repository: https://inseefrlab.github.io/helm-charts-interactive-services
+      repository: https://github.com/AhmedErrahmani/onyxia-services-helm-charts/
       version: 1.7.14
     description: The JupyterLab IDE with Python and a collection of standard data
       science packages.
@@ -62,8 +62,7 @@ entries:
     - PySyft
     name: jupyter-pysyft
     sources:
-    - https://github.com/InseeFrLab/images-datascience
-    - https://github.com/InseeFrLab/helm-charts-interactive-services
+    - https://github.com/AhmedErrahmani/onyxia-services-helm-charts/
     type: application
     urls:
     - https://github.com/AhmedErrahmani/onyxia-services-helm-charts/releases/download/jupyter-pysyft0.9.6beta-6/jupyter-pysyft0.9.6beta-6.tgz
