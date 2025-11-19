@@ -60,7 +60,7 @@ entries:
     keywords:
     - Jupyter
     - PySyft
-    name: jupyter-python
+    name: jupyter-pysyft
     sources:
     - https://github.com/InseeFrLab/images-datascience
     - https://github.com/InseeFrLab/helm-charts-interactive-services
