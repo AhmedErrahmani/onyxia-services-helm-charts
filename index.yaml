@@ -45,3 +45,26 @@ entries:
     urls:
     - https://github.com/InseeFrLab/helm-charts-interactive-services/releases/download/rstudio-2.3.18/rstudio-2.3.18.tgz
     version: 2.3.18
+  jupyter-pysyft:
+  - apiVersion: v2
+    created: "2025-11-19T13:00:41.917689532Z"
+    dependencies:
+    - name: library-chart
+      repository: https://inseefrlab.github.io/helm-charts-interactive-services
+      version: 1.7.14
+    description: The JupyterLab IDE with Python and a collection of standard data
+      science packages.
+    digest: e5a60bf40d3e8ea0ca9994ff924b8e2ce882a3e7a834b84bcd2a5527db77dca4
+    home: https://jupyter.org/
+    icon: https://minio.lab.sspcloud.fr/projet-onyxia/assets/servicesImg/jupyter.png
+    keywords:
+    - Jupyter
+    - PySyft
+    name: jupyter-python
+    sources:
+    - https://github.com/InseeFrLab/images-datascience
+    - https://github.com/InseeFrLab/helm-charts-interactive-services
+    type: application
+    urls:
+    - https://github.com/AhmedErrahmani/onyxia-services-helm-charts/releases/download/jupyter-pysyft0.9.6beta-6/jupyter-pysyft0.9.6beta-6.tgz
+    version: 2.3.24
