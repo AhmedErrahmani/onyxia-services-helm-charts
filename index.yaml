@@ -54,7 +54,7 @@ entries:
       version: 1.7.14
     description: The JupyterLab IDE with Python and a collection of standard data
       science packages.
-    digest: 32C6A6ABCAA183D2BF09C5F5B6E954F969AB3A0E323209B4B316ACE204D1AE24
+    digest: 32c6a6abcaa183d2bf09c5f5b6e954f969ab3a0e323209b4b316ace204d1ae24
     home: https://jupyter.org/
     icon: https://minio.lab.sspcloud.fr/projet-onyxia/assets/servicesImg/jupyter.png
     keywords:
