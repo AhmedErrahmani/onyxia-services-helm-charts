@@ -7,8 +7,7 @@ keywords:
   - PySyft
 home: https://jupyter.org/
 sources:
-  - 
-  - https://github.com/InseeFrLab/helm-charts-interactive-services
+  - https://github.com/AhmedErrahmani/onyxia-services-helm-charts/
 # A chart can be either an 'application' or a 'library' chart.
 #
 # Application charts are a collection of templates that can be packaged into versioned archives
@@ -27,3 +26,4 @@ dependencies:
   - name: library-chart
     version: 1.7.14
     repository: https://ahmederrahmani.github.io/onyxia-services-helm-charts/
+
