@@ -53,7 +53,7 @@ entries:
       repository: https://ahmederrahmani.github.io/onyxia-services-helm-charts/
       version: 1.7.14
     description: The JupyterLab IDE with Python and PySyft package.
-    digest: 265f83e613a65dc4c0ce33c2f42672a9b1b30291a676d7b6377049b530108c61
+    digest: 78f3c48d903d7c45a2e1b0427451c5316b42a6e26e40d9f62b3fbf6380ee5040
     home: https://jupyter.org/
     icon: https://minio.lab.sspcloud.fr/projet-onyxia/assets/servicesImg/jupyter.png
     keywords:
