@@ -24,15 +24,14 @@
               "title": "Name of the service's Docker image",
               "type": "string",
               "listEnum": [
-                "inseefrlab/onyxia-jupyter-python:py3.13.8",
-                "inseefrlab/onyxia-jupyter-python:py3.12.12"
+                "ahmed20000820/jupyter-pysyft:latest"
               ],
               "render": "list",
               "hidden": {
                 "value": true,
                 "path": "service/image/custom/enabled"
               },
-              "default": "inseefrlab/onyxia-jupyter-python:py3.13.8"
+              "default": "ahmed20000820/jupyter-pysyft:latest"
             },
             "custom": {
               "title": "Custom image",
@@ -49,7 +48,7 @@
                 "version": {
                   "title": "Name of the custom image",
                   "type": "string",
-                  "default": "inseefrlab/onyxia-jupyter-python:py3.13.8",
+                  "default": "ahmed20000820/jupyter-pysyft:latest",
                   "hidden": {
                     "value": false,
                     "path": "enabled",
