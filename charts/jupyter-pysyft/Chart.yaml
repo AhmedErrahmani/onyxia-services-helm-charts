@@ -1,13 +1,13 @@
 apiVersion: v2
-name: jupyter-python
-description: The JupyterLab IDE with Python and a collection of standard data science packages.
+name: jupyter-pysyft
+description: The JupyterLab IDE with Python and PySyft package.
 icon: https://minio.lab.sspcloud.fr/projet-onyxia/assets/servicesImg/jupyter.png
 keywords:
   - Jupyter
-  - Python
+  - PySyft
 home: https://jupyter.org/
 sources:
-  - https://github.com/InseeFrLab/images-datascience
+  - 
   - https://github.com/InseeFrLab/helm-charts-interactive-services
 # A chart can be either an 'application' or a 'library' chart.
 #
@@ -22,8 +22,8 @@ type: application
 # This is the chart version. This version number should be incremented each time you make changes
 # to the chart and its templates, including the app version.
 # Versions are expected to follow Semantic Versioning (https://semver.org/)
-version: 2.3.24
+version: 1.0.0
 dependencies:
   - name: library-chart
     version: 1.7.14
-    repository: https://inseefrlab.github.io/helm-charts-interactive-services
+    repository: https://ahmederrahmani.github.io/onyxia-services-helm-charts/
