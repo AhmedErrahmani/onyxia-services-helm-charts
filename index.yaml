@@ -68,3 +68,12 @@ entries:
     urls:
     - https://github.com/AhmedErrahmani/onyxia-services-helm-charts/releases/download/jupyter-pysyft0.9.6beta-6/jupyter-pysyft0.9.6beta-6.tgz
     version: 2.3.25
+  library-chart:
+  - apiVersion: v2
+    created: "2025-12-09T22:21:45.053736476Z"
+    digest: b180c2d4b95aa8ab93c539abfbbc873d52282f98559b4387d9eed14561c80aa1
+    name: library-chart
+    type: library
+    urls:
+    - https://github.com/InseeFrLab/helm-charts-interactive-services/releases/download/library-chart-2.0.3/library-chart-2.0.3.tgz
+    version: 2.0.3
