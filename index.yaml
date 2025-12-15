@@ -50,10 +50,10 @@ entries:
     created: "2025-11-19T13:00:41.917689532Z"
     dependencies:
     - name: library-chart
-      repository: https://ahmederrahmani.github.io/onyxia-services-helm-charts/index.yaml
+      repository: https://inseefrlab.github.io/helm-charts-interactive-services
       version: 1.7.14
     description: The JupyterLab IDE with Python and PySyft package.
-    digest: 78f3c48d903d7c45a2e1b0427451c5316b42a6e26e40d9f62b3fbf6380ee5040
+    digest: 624db424a47a88248292cea70449641d2dfca10a4f298c4d8da9fc01e855b4b2
     home: https://jupyter.org/
     icon: https://minio.lab.sspcloud.fr/projet-onyxia/assets/servicesImg/jupyter.png
     keywords:
