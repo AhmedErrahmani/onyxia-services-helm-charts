@@ -9,7 +9,7 @@ entries:
       version: 1.7.14
     description: The JupyterLab IDE with Python and a collection of standard data
       science packages.
-    digest: 5d912d3c37030372e7be365d4880772f312d4815d5900aa52ddf6e5ed92319e1 #e5a60bf40d3e8ea0ca9994ff924b8e2ce882a3e7a834b84bcd2a5527db77dca4
+    digest: e5a60bf40d3e8ea0ca9994ff924b8e2ce882a3e7a834b84bcd2a5527db77dca4
     home: https://jupyter.org/
     icon: https://minio.lab.sspcloud.fr/projet-onyxia/assets/servicesImg/jupyter.png
     keywords:
@@ -21,8 +21,7 @@ entries:
     - https://github.com/InseeFrLab/helm-charts-interactive-services
     type: application
     urls:
-    - https://github.com/AhmedErrahmani/onyxia-services-helm-charts/releases/download/jupyter-pysyft0.9.6beta-6/jupyter-pysyft0.9.6beta-6.tgz
-    #- https://github.com/InseeFrLab/helm-charts-interactive-services/releases/download/jupyter-python-2.3.24/jupyter-python-2.3.24.tgz
+    - https://github.com/InseeFrLab/helm-charts-interactive-services/releases/download/jupyter-python-2.3.24/jupyter-python-2.3.24.tgz
     version: 2.3.24
   rstudio:
   - apiVersion: v2
