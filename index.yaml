@@ -53,7 +53,7 @@ entries:
       repository: https://inseefrlab.github.io/helm-charts-interactive-services
       version: 1.7.14
     description: The JupyterLab IDE with Python and PySyft package.
-    digest: 624db424a47a88248292cea70449641d2dfca10a4f298c4d8da9fc01e855b4b2
+    digest: 15f95eb809120f9c116171c30852050fe4daae06712b71fca4f4a12c085c78bd
     home: https://jupyter.org/
     icon: https://minio.lab.sspcloud.fr/projet-onyxia/assets/servicesImg/jupyter.png
     keywords:
