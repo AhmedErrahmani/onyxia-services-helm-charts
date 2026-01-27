@@ -53,7 +53,7 @@ entries:
       repository: https://inseefrlab.github.io/helm-charts-interactive-services
       version: 1.7.14
     description: The JupyterLab IDE with Python and PySyft package.
-    digest: 66ab00bed0ec39bcac282879b568d247da98ced840d61cd155952b550b712b8c
+    digest: b7252fbb5f83708c790f57bc5aca4e93e19b3288227d4dd097d8b3e9fff5b0c8
     home: https://jupyter.org/
     icon: https://minio.lab.sspcloud.fr/projet-onyxia/assets/servicesImg/jupyter.png
     keywords:
@@ -64,8 +64,8 @@ entries:
     - https://github.com/AhmedErrahmani/onyxia-services-helm-charts/
     type: application
     urls:
-    - https://github.com/AhmedErrahmani/onyxia-services-helm-charts/releases/download/jupyter-pysyft-0.9.6-beta6/jupyter-pysyft-0.9.6-beta6.tgz
-    version: 0.9.6-beta6
+    - https://github.com/AhmedErrahmani/onyxia-services-helm-charts/releases/download/jupyter-pysyft-0.9.6/jupyter-pysyft-0.9.6.tgz
+    version: 0.9.6
   library-chart:
   - apiVersion: v2
     created: "2025-12-09T22:21:45.053736476Z"
