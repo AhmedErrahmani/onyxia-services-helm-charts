@@ -6,7 +6,7 @@ entries:
     dependencies:
     - name: library-chart
       repository: https://inseefrlab.github.io/helm-charts-interactive-services
-      version: 2.0.3
+      version: 1.7.14
     description: The JupyterLab IDE with PySpark, an interface to use Apache Spark
       from Python.
     digest: 30ef242aef5711571e7b67a47e759310432e65668c3ac4f932099b3c7c7fb7f8
