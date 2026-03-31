@@ -91,7 +91,7 @@ entries:
     urls:
     - https://github.com/AhmedErrahmani/onyxia-services-helm-charts/releases/download/jupyter-pysyft-0.9.6/jupyter-pysyft-0.9.6.tgz
     version: 0.9.6
-  jupyter-r-pysyft:
+  jupyter-R-PySyft:
   - apiVersion: v2
     created: "2025-11-19T13:00:41.917689532Z"
     dependencies:
