@@ -106,7 +106,7 @@ entries:
     - Jupyter
     - PySyft
     - R
-    name: jupyter-R-PySyft
+    name: jupyter-r-pysyft
     sources:
     - https://github.com/AhmedErrahmani/onyxia-services-helm-charts/
     type: application
