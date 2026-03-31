@@ -91,6 +91,28 @@ entries:
     urls:
     - https://github.com/AhmedErrahmani/onyxia-services-helm-charts/releases/download/jupyter-pysyft-0.9.6/jupyter-pysyft-0.9.6.tgz
     version: 0.9.6
+  jupyter-r-pysyft:
+  - apiVersion: v2
+    created: "2025-11-19T13:00:41.917689532Z"
+    dependencies:
+    - name: library-chart
+      repository: https://inseefrlab.github.io/helm-charts-interactive-services
+      version: 1.7.14
+    description: The JupyterLab IDE with Python R Kernel and PySyft package.
+    digest: 27318f3e387c464184d3154f80cabecf4b6fc542ee119c22313d39e1ec3af293
+    home: https://jupyter.org/
+    icon: https://minio.lab.sspcloud.fr/projet-onyxia/assets/servicesImg/jupyter.png
+    keywords:
+    - Jupyter
+    - PySyft
+    - R
+    name: jupyter-R-PySyft
+    sources:
+    - https://github.com/AhmedErrahmani/onyxia-services-helm-charts/
+    type: application
+    urls:
+    - https://github.com/AhmedErrahmani/onyxia-services-helm-charts/releases/download/jupyter-r-pysyft-1.0.0.tgz/jupyter-r-pysyft-1.0.0.tgz
+    version: 1.0.0
   library-chart:
   - apiVersion: v2
     created: "2025-12-09T22:21:45.053736476Z"
